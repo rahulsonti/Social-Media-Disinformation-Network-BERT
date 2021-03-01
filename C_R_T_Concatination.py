@@ -2,7 +2,7 @@
 """
 Created on Sun Sep 20 18:18:48 2020
 
-@author: vkaus
+@author: rahul
 """
 import glob
 import sqlite3
